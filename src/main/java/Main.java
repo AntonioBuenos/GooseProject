@@ -3,5 +3,8 @@ public class Main {
         System.out.println("Hoorray!");
 
         System.out.println("Task 1 done");
+
+        System.out.println("Task 1 done ammended");
+
     }
 }
