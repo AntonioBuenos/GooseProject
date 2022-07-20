@@ -7,4 +7,8 @@ public class Main {
         System.out.println("Task 1 done ammended");
         System.out.println("Task 1 done ammended twice");
     }
+
+    public static void getGoodNews(String request){
+        System.out.println("No new good news for " + request);
+    }
 }
